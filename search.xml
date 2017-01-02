@@ -6,7 +6,7 @@
     <entry>
       <title><![CDATA[第一篇文章]]></title>
       <url>http://yoursite.com/2017/01/02/first/</url>
-      <content type="html"><![CDATA[<h1 id="abc"><a href="#abc" class="headerlink" title="abc"></a>abc</h1><p><img src="first/1.jpg" alt="1"></p>
+      <content type="html"><![CDATA[<h1 id="&#x53F6;&#x60E0;&#x7F8E;"><a href="#&#x53F6;&#x60E0;&#x7F8E;" class="headerlink" title="&#x53F6;&#x60E0;&#x7F8E;"></a>&#x53F6;&#x60E0;&#x7F8E;</h1><p><img src="/2017/01/02/first/1.jpg" alt=""></p>
 ]]></content>
     </entry>
     
